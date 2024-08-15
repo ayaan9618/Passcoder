@@ -1,5 +1,5 @@
 **Passcoder: Random Password Generator in C**
-By Ayaan
+**By Ayaan**
 
 Passcoder is a C program designed to generate secure and random passwords, helping you avoid password reuse and improve your online security.
 
