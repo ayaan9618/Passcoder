@@ -11,7 +11,6 @@ int main() {
    scanf("%d", &num_chars); 
  
   printf("Enter a seed value for the random number generator: "); 
-
   scanf("%d", &seed_value); 
 
   // Seed the random number generator with user-specified value 
