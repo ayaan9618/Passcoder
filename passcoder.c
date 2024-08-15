@@ -2,7 +2,8 @@
 #include <stdio.h> 
 #include <time.h> 
 
-int main() { 
+int main() 
+{ 
 
   int num_chars, i, seed_value; 
 
