@@ -1,7 +1,5 @@
 #include <stdlib.h> 
-
 #include <stdio.h> 
-
 #include <time.h> 
 
 int main() { 
@@ -10,8 +8,7 @@ int main() {
 
 
   printf("Enter the number of characters in the password: "); 
-
-  scanf("%d", &num_chars); 
+   scanf("%d", &num_chars); 
  
   printf("Enter a seed value for the random number generator: "); 
 
