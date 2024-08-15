@@ -22,7 +22,8 @@ int main() {
 
   printf("Random Password: "); 
 
-  for (i = 0; i < num_chars; i++) { 
+  for (i = 0; i < num_chars; i++) 
+  { 
 
     char c = (char)((rand() % 94) + 33); // Generates a random printable ASCII character 
 
